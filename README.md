@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**feint5k/feint5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+# THE END OF THE WORLD HAS ARRIVED!!
+# 
+# A massive asteroid has collided with Earth, causing widespread destruction and chaos.
+# The once blue skies are now filled with ash and smoke, blocking out the sun.
+# The oceans are boiling, and the land is scorched and barren.
+# The few remaining humans are fighting for survival, but it's a losing battle.
+# The world as we know it has come to an end.
+# 
+# BUT WAIT, THERE'S MORE!
+# 
+# A strange glow is appearing on the horizon, and it's getting brighter by the second.
+# The air is charged with an otherworldly energy, and the ground is shaking with an ominous power.
+# It's the end of the world, and the beginning of something new.
+# But what is it? Only time will tell.
+```
